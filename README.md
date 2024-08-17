@@ -1,4 +1,4 @@
-#Handwritten-Digit-Recognition-using-LeNet-5-CNN-Architecture on MNIST Database
+# Handwritten-Digit-Recognition-using-LeNet-5-CNN-Architecture on MNIST Database
 
 ## Overview
 
